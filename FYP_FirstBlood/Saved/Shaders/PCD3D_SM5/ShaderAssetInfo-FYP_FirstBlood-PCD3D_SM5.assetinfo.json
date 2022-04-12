@@ -238,9 +238,9 @@
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset",
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight.uasset",
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold.uasset"
 			]
 		},
@@ -301,7 +301,7 @@
 		{
 			"ShaderMapHash": "E3F99A5DFEB3BD94FB1DA65EDCED9B176F67F79E",
 			"Assets": [
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset"
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Materials/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset"
 			]
 		},
 		{
@@ -347,6 +347,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9711D05FBCD40BA8349D89C8E6889ACDBF14076A",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "64E587B7D8E54672AF79F181813F44E931016DC9",
 			"Assets": [
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Materials/Target.uasset"
@@ -367,25 +373,13 @@
 		{
 			"ShaderMapHash": "65CBA1E1D413189B6C5589185C43A6DB2D345FC7",
 			"Assets": [
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Megascans/Surfaces/M_Netting_373VUHJt5k603awURyHQ4A/M_Netting.uasset"
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Materials/Megascans/Surfaces/M_Netting_373VUHJt5k603awURyHQ4A/M_Netting.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "D1FB293B632098AD6E78D7978CAFFF836CC23D60",
 			"Assets": [
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/MainLevel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A54C28B8508FF04E8692D7F9D41B6F67D20E34DE",
-			"Assets": [
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/MSPresets/Foliage_Material/Foliage_Material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E48F4A5094CF0C8E3632FC4F259A2DB293EE2AC9",
-			"Assets": [
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/MSPresets/Atlas_Material/Atlas_Material.uasset"
 			]
 		},
 		{
@@ -403,6 +397,18 @@
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_LeafSpray.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Ka47/M_KA47_Pattern.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4_Pattern.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A54C28B8508FF04E8692D7F9D41B6F67D20E34DE",
+			"Assets": [
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Materials/MSPresets/Foliage_Material/Foliage_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E48F4A5094CF0C8E3632FC4F259A2DB293EE2AC9",
+			"Assets": [
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Materials/MSPresets/Atlas_Material/Atlas_Material.uasset"
 			]
 		}
 	]
