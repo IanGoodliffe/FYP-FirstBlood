@@ -11504,3 +11504,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.15-22.53.04:213][128]LogFileHelpers: Saving map 'MainLevel' took 0.650
 [2022.04.15-22.53.04:250][128]AssetCheck: New page: Asset Save: MainLevel
 [2022.04.15-22.53.04:250][128]LogContentValidation: Display: Validating World /Game/MainLevel.MainLevel
+[2022.04.15-22.56.22:947][826]LogEditorViewport: Clicking on Actor (LMB): BP_WallSmall_C (BP_WallSmall40)
+[2022.04.15-22.56.39:637][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.04.15-22.56.58:504][ 33]Cmd: DELETE
+[2022.04.15-22.56.58:514][ 33]Cmd: ACTOR DELETE
+[2022.04.15-22.56.58:854][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.15-22.56.58:892][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.04.15-22.56.58:896][ 33]LogEditorActor: Deleted 1 Actors (0.163 secs)
+[2022.04.15-22.56.59:539][103]Cmd: DELETE
+[2022.04.15-22.56.59:539][103]Cmd: ACTOR DELETE
+[2022.04.15-22.56.59:554][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.15-22.56.59:575][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.15-22.56.59:576][103]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.04.15-22.57.00:225][174]Cmd: DELETE
+[2022.04.15-22.57.00:225][174]Cmd: ACTOR DELETE
+[2022.04.15-22.57.00:241][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.15-22.57.00:260][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.15-22.57.00:261][174]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.04.15-22.57.26:519][156]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2022.04.15-22.57.27:393][221]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.04.15-22.57.37:175][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.15-22.57.37:200][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.15-22.57.37:221][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.15-22.57.37:704][967]LogSavePackage: Moving 'C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Saved/MainLevel1F8EC47D4258B5C5DA5887906C6AF6C7.tmp' to 'C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/MainLevel.umap'
+[2022.04.15-22.57.37:722][967]LogFileHelpers: Saving map 'MainLevel' took 0.522
+[2022.04.15-22.57.37:748][967]AssetCheck: New page: Asset Save: MainLevel
+[2022.04.15-22.57.37:748][967]LogContentValidation: Display: Validating World /Game/MainLevel.MainLevel
