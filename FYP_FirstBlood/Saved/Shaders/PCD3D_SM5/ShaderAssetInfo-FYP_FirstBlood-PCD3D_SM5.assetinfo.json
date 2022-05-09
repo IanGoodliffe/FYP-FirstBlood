@@ -51,6 +51,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -60,12 +66,6 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -237,10 +237,10 @@
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11.uasset",
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset",
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset",
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold.uasset"
 			]
 		},
@@ -317,16 +317,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "76CF9C2C59A28E8A370B7D06C10924308B2AB79B",
+			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/Sniper/Material_146.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
-			"Assets": [
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/GrenadeLauncher/textures/topaint1309_uv_overlapped_bomb1_baked_Base_Mat.uasset",
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/Pistol/source/Pistol1.uasset"
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
 			]
 		},
 		{
@@ -336,15 +329,28 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
+			"ShaderMapHash": "76CF9C2C59A28E8A370B7D06C10924308B2AB79B",
 			"Assets": [
-				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/Sniper/Material_146.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
+			"Assets": [
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/Pistol/source/Pistol1.uasset",
+				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Meshes/GrenadeLauncher/textures/topaint1309_uv_overlapped_bomb1_baked_Base_Mat.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
 			"Assets": [
 				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9711D05FBCD40BA8349D89C8E6889ACDBF14076A",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset"
 			]
 		},
 		{
@@ -357,12 +363,6 @@
 			"ShaderMapHash": "6B97C1D703F98773437E37C5987752BC52C13B5D",
 			"Assets": [
 				"C:/Users/Ian/Documents/GitHub/FYP-FirstBlood/FYP_FirstBlood/Content/Materials/RED.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9711D05FBCD40BA8349D89C8E6889ACDBF14076A",
-			"Assets": [
-				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset"
 			]
 		},
 		{
